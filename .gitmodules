@@ -1,0 +1,3 @@
+[submodule "mseery-source"]
+	path = mseery-source
+	url = https://github.com/mseery/mseery-submodule.git
